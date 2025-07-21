@@ -1,4 +1,4 @@
-fastapi
-uvicorn
-vertexai
-google-cloud-aiplatform
+flask
+requests
+openai
+python-dotenv
